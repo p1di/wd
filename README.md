@@ -3,9 +3,6 @@
   alt="Web Dashers" 
   src="./wd_branding/wordmark/wordmark_500.png" 
   />
-  <p>
-  <strong>Unblocked Web Dashers Fork!</strong>
-  </p>
   <a 
   href="https://webdashers.ct.ws/" 
   target="_blank">
